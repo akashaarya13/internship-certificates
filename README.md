@@ -40,8 +40,8 @@ Recommended for confirmation based on performance and evaluation
 The official internship completion certificate issued by INVESOFT LLP is available in this repository.
 
 <p align="center">
-  <a href="invlsoft.jpg">
-    <img src="invelsoft.jpg" width="700">
+  <a href="invelsoft.jpeg">
+    <img src="invelsoft.jpeg" width="700">
   </a>
 </p>
 

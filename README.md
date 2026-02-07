@@ -39,8 +39,12 @@ Recommended for confirmation based on performance and evaluation
 
 The official internship completion certificate issued by INVESOFT LLP is available in this repository.
 
-📎 File:
-INVESOFT_Internship_Certificate_Akash_Kumar.pdf
+<p align="center">
+  <a href="invlsoft.jpg">
+    <img src="invelsoft.jpg" width="700">
+  </a>
+</p>
+
 
 🔗 Usage
 
